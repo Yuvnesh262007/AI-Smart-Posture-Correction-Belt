@@ -1,0 +1,8 @@
+﻿# Python environment used for the final V3 pipeline
+# Recorded from the project development environment: Python 3.13.14
+numpy==2.5.0
+pandas==3.0.6
+scikit-learn==1.9.1
+joblib==1.6.0
+pyserial==3.5
+matplotlib==3.11.2
